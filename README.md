@@ -163,7 +163,7 @@ Results Displayed on Dashboard
 | 📄 Member 3 |           |Resume Parser |
 | 🧠 Member 4 |           |AI Ranking Engine |
 | 🗄️ Member 5 |           |Database |
-| 🧪 Member 6 |  **Chitransh goyal**       |Testing & Documentation |
+| 🧪 Member 6 |  **Chitransh goyal**     |Testing & Documentation |
 
 ---
 
